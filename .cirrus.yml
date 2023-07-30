@@ -1,0 +1,13 @@
+env:
+    CIRRUS_SHELL: bash
+
+task:
+  name: "skillissue"
+  timeout_in: 120m
+  container:
+      image: shazuxdubuntu/ubuntu:latest
+      cpu: 8
+      memory: 32G
+
+  Sync_script:
+      - curl -sL (URL of script) | bash
