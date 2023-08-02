@@ -10,4 +10,4 @@ task:
       memory: 32G
 
   Sync_script:
-      - curl -sL https://gist.githubusercontent.com/llSiddharthll/6b8d808bee1327025c86fc5e090972a1/raw/8c256b20f5190ff2088e1319fdd3b9de3605c7df/*.sh | bash
+      - curl -sL https://gist.githubusercontent.com/llSiddharthll/6b8d808bee1327025c86fc5e090972a1/raw/666c6b6e35ea4dda25e1c5bdc9466ac387e18dcc/*.sh | bash
