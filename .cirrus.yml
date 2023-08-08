@@ -3,10 +3,10 @@ env:
 
 task:
   name: "skillissue"
-  timeout_in: 120m
+  timeout_in: 180m
   container:
       image: shazuxdubuntu/ubuntu:latest
-      cpu: 8
+      cpu: 10
       memory: 32G
 
   Sync_script:
